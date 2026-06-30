@@ -1,0 +1,16 @@
+*.eeg
+*.vhdr
+*.vmrk
+*.nii
+*.nii.gz
+*.zip
+*.tar.gz
+*.7z
+*.mat
+*.h5
+*.hdf5
+rawdata/
+derivatives/
+outputs/
+logs/
+tmp/
