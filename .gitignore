@@ -2,6 +2,8 @@
 *.vhdr
 *.vmrk
 *.nii
+*.BRIK
+*.HEAD
 *.nii.gz
 *.zip
 *.tar.gz
