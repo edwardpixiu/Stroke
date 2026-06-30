@@ -14,5 +14,9 @@
 rawdata/
 derivatives/
 outputs/
+Analyze_Result/
+Afni/
+Glm/
+rawdata/
 logs/
 tmp/
